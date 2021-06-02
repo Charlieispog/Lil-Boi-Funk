@@ -5,7 +5,6 @@ var Programmers:Array<String> = [
   "Bennybooboo2011",
   "Chao World",
   "a normal black hole",
-  "a hazy winter"
 ]
 
 var Artists:Array<String> = [
